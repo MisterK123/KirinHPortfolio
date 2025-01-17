@@ -187,8 +187,7 @@ const Hero = () => {
             <div className="w-full mx-auto flex flex-col sm:mt-36 mt-20 c-space gap-3">
                 <p className="sm:text-2xl text-xl font-medium text-white text-center font-generalsans">Hi, I&#39;m
                     Kirin</p>
-                <p className="sm:text-2xl text-xl font-medium text-white text-center font-generalsans">A student of
-                    Cyber Security and Computer Science</p>
+                <p className="sm:text-2xl text-xl font-medium text-white text-center font-generalsans"></p>
             </div>
             <div className="w-full h-full absolute inset-0">
 
