@@ -31,7 +31,28 @@ export const clientReviews = [
         id: 1,
         name: 'test name',
         position: 'test position',
-        img: 'test img',
+        img: 'assets/review1.png',
+        review: 'test review',
+    },
+    {
+        id: 2,
+        name: 'test name',
+        position: 'test position',
+        img: 'assets/review2.png',
+        review: 'test review',
+    },
+    {
+        id: 3,
+        name: 'test name',
+        position: 'test position',
+        img: 'assets/review3.png',
+        review: 'test review',
+    },
+    {
+        id: 4,
+        name: 'test name',
+        position: 'test position',
+        img: 'assets/review4.png',
         review: 'test review',
     }
 ];
